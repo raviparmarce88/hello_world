@@ -6,6 +6,7 @@ public class HelloWorld {
 		System.out.println("Hello Git 2nd Commit after cloned");
 		System.out.println("Commit from Git Repo..");
 		System.out.println("Again Commit from Git");
+		System.out.println("Again Commit from Git");
 	}
 
 }
